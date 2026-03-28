@@ -55,16 +55,18 @@ The repository will be organized as follows:
 └── README.md
 
 
-## Datasets
+## Repository Structure
 
 Experiments are conducted on standard CZSL benchmarks, including:
 	•	MIT-States
 	•	UT-Zappos50K
 
 ## Training
+
 python train.py --config configs/[your_config].yaml
 
 ## Evaluation
+
 python test.py --config configs/[your_config].yaml --checkpoint [path_to_checkpoint]
 
 Citation
