@@ -34,7 +34,7 @@ To support transparency and reproducibility, the full implementation, pretrained
 If you find this work useful, please cite:
 
 ```bibtex
-@article{yourpaper,
+@article{
   title={Vision-Guided Prototype Expansion and Mutual Contrast for Compositional Zero-Shot Learning},
   journal={The Visual Computer},
   year={2026}
